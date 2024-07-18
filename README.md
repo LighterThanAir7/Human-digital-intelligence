@@ -4,6 +4,8 @@
 
 This repository documents the redesign project for Human Digital Intelligence's website and visual identity. As the lead visual designer, I was responsible for creating a new and cohesive brand identity, including a new logo, color palette, typography, and a comprehensive website redesign. The redesign aimed to enhance the user experience and align the website with the company's innovative vision.
 
+NOTE: Not fully implemented by the Dev Team yet - <a href="https://hdi.vision/" target="_blank">View new website</a>
+
 ## Project Details
 ### Scope of Work
 - **Logo Design:** Created a modern and distinctive logo to represent the HDI brand.
@@ -11,11 +13,6 @@ This repository documents the redesign project for Human Digital Intelligence's 
 - **Typography:** Selected and implemented typography that enhances readability and brand recognition.
 - **Website Redesign:** Designed a new layout, navigation
  structure, and visual elements to improve user experience and engagement.
-
-### Tools Used
-- **Design Tool:** Figma
-- **Collaboration:** Regular client meetings to ensure alignment with their vision and business goals.
-- **Testing:** Usability testing and iterations based on user feedback.
 
 ## Project Outcomes
 - Delivered a visually compelling and user-friendly website.
